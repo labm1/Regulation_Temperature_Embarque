@@ -1,4 +1,4 @@
-# PROJET DE RÉGULATION DE TEMPÉRATURE EMBARQUÉ
+# Projet de régulation de température embarqué
 
 Projet créé dans le cadre du cours INF1633 Programmation de systèmes embarqués en C/C++ à l'Université du Québec en Outaouais (UQO) durant la session d'automne 2024.
 
