@@ -1,6 +1,6 @@
 # PROJET DE RÉGULATION DE TEMPÉRATURE EMBARQUÉ
 
-Projet créé dans le cadre du cours INF1633 Programmation de systèmes embarqués en C/C++ à l'Université du Québec en Outaouais (UQO).
+Projet créé dans le cadre du cours INF1633 Programmation de systèmes embarqués en C/C++ à l'Université du Québec en Outaouais (UQO) durant la session d'automne 2024.
 
 Le but de ce projet est de créer un système embarqué qui active un ventilateur et des DELs selon la température. Un écran LCD doit également afficher la température ambiante. L’état de la DEL verte dépend de si le ventilateur est activé ou non, l’état de la DEL bleue dépend de l’état du système (normal ou actif), et l’état de la DEL rouge dépend si la température est sous le seuil supérieur ou non. 
 
