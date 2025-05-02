@@ -7,7 +7,7 @@ Le but de ce projet est de créer un système embarqué qui active un ventilateu
 La carte utilisée est FRDM-KL28Z avec le logiciel MCUXpresso.
 
 ## Matériel
-- **Carte FRDM-KL28Z** 
+- **Carte FRDM-KL28Z**  
   Microcontrôleur pour contrôler les composantes et exécuter notre programme pour le projet.
 - **3 DELs : rouge, bleue, verte**  
   Pour montrer l’état du système. On a décidé de ne pas prendre la DEL intégrée à la carte pour pouvoir distinguer chaque couleur lorsqu’il y a plusieurs DELs d’activées.
@@ -27,8 +27,8 @@ La carte utilisée est FRDM-KL28Z avec le logiciel MCUXpresso.
   Pour le ventilateur à activer.
 - **Capteur de température BMP280**  
   Pour mesurer la température.
-- **Source externe de courant 5V**
-  Pour alimenter le moteur, selon le moteur utilisé la carte FRDM-KL28Z peut avoir des problèmes pour l'alimenter, c'est donc mieux d'utiliser une source externe.
+- **Source externe de courant 5V**  
+  Pour alimenter le moteur. Selon le moteur utilisé la carte FRDM-KL28Z peut avoir des problèmes pour l'alimenter, c'est donc mieux d'utiliser une source externe.
 
 ## Diagramme bloc
 ![image](https://github.com/user-attachments/assets/f23a5d55-63b2-4134-a762-6d0f8a8e9bdf)
