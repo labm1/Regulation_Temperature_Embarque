@@ -7,25 +7,25 @@ Le but de ce projet est de créer un système embarqué qui active un ventilateu
 La carte utilisée est FRDM-KL78Z avec le logiciel MCUXpresso.
 
 ## Matériel
-- Carte FRDM-KL78Z
+- Carte FRDM-KL78Z  
   Microcontrôleur pour contrôler les composantes et exécuter notre programme pour le projet.
-- 3 DELs : rouge, bleue, verte
+- 3 DELs : rouge, bleue, verte  
   Pour montrer l’état du système. On a décidé de ne pas prendre la DEL intégrée à la carte pour pouvoir distinguer chaque couleur lorsqu’il y a plusieurs DELs d’activées.
-- Breadboard
+- Breadboard  
   Pour connecter facilement les composantes entre elles.
-- Fils
+- Fils  
   Pour connecter les composantes aux ports de la carte.
-- Résistances : 3x 220 Ohms, 1x 270 Ohms
+- Résistances : 3x 220 Ohms, 1x 270 Ohms  
   Pour ne pas avoir du courant qui passe directement à travers les DELs sans résistance, ce qui pourrait abimer la carte, et pour le circuit du ventilateur.
-- Diode 1N4001
+- Diode 1N4001  
   Pour le circuit du ventilateur.
-- Transistor PN2222
+- Transistor PN2222  
   Pour le circuit du ventilateur.
-- Écran LCD 94V-0 avec adapteur I2C
+- Écran LCD 94V-0 avec adapteur I2C  
   Pour afficher la température. L’adapteur I2C a été ajouté pour réduire le nombre de ports utilisé sur la carte de 7 à 4.
-- Moteur DC 5V
+- Moteur DC 5V  
   Pour le ventilateur à activer.
-- Capteur de température BMP280
+- Capteur de température BMP280  
   Pour mesurer la température.
 
 ## Diagramme bloc
