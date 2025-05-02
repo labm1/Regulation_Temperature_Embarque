@@ -1,0 +1,2 @@
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_clock.h:682:20:CLOCK_SetIpSrc	24	static
+../board/board.c:25:6:BOARD_InitDebugConsole	16	static

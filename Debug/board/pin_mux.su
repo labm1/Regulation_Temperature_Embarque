@@ -1,0 +1,14 @@
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_clock.h:639:20:CLOCK_EnableClock	16	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_port.h:243:20:PORT_SetPinConfig	32	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_port.h:346:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:134:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:158:6:BOARD_InitPins	8	static
+../board/pin_mux.c:190:6:BOARD_InitBUTTONsPins	24	static
+../board/pin_mux.c:273:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:376:6:BOARD_InitTOUCHPins	16	static
+../board/pin_mux.c:434:6:BOARD_InitLIGHT_SENSORPins	8	static
+../board/pin_mux.c:483:6:BOARD_InitUSBPins	16	static
+../board/pin_mux.c:526:6:BOARD_InitDEBUG_UARTPins	16	static
+../board/pin_mux.c:591:6:BOARD_InitACCELPins	40	static
+../board/pin_mux.c:733:6:BOARD_InitGYROPins	40	static
+../board/pin_mux.c:864:6:BOARD_InitOSCPins	16	static

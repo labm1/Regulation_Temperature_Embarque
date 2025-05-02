@@ -1,0 +1,5 @@
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\CMSIS/core_cm0plus.h:840:22:__NVIC_SetPriority	24	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\CMSIS/core_cm0plus.h:994:26:SysTick_Config	16	static
+../source/MKL28Z7_Project.c:25:6:SysTick_Handler	8	static
+../source/MKL28Z7_Project.c:33:6:SysTick_DelayTicks	16	static
+../source/MKL28Z7_Project.c:41:5:main	32	static

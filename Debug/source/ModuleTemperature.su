@@ -1,0 +1,8 @@
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_clock.h:639:20:CLOCK_EnableClock	16	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_port.h:346:20:PORT_SetPinMux	24	static
+../source/ModuleTemperature.c:19:6:initLPI2C1	40	static
+../source/ModuleTemperature.c:36:6:initBMP	24	static
+../source/ModuleTemperature.c:86:8:getTemp	48	static
+../source/ModuleTemperature.c:127:8:i2c_reg_write	96	static
+../source/ModuleTemperature.c:171:8:i2c_reg_read	96	static
+../source/ModuleTemperature.c:207:6:print_rslt	16	static

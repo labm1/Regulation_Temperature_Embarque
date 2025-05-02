@@ -1,0 +1,12 @@
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_clock.h:682:20:CLOCK_SetIpSrc	24	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_clock.h:850:20:CLOCK_SetRunModeSysClkConfig	16	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_clock.h:864:20:CLOCK_SetHsrunModeSysClkConfig	16	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_clock.h:878:20:CLOCK_GetCurSysClkConfig	16	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_clock.h:1394:20:CLOCK_SetXtal0Freq	16	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_smc.h:260:20:SMC_SetPowerModeProtection	16	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_smc.h:279:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:60:13:CLOCK_CONFIG_SetScgOutSel	16	static
+../board/clock_config.c:76:13:CLOCK_CONFIG_FircSafeConfig	40	static
+../board/clock_config.c:124:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:242:6:BOARD_BootClockHSRUN	16	static
+../board/clock_config.c:362:6:BOARD_BootClockVLPR	8	static

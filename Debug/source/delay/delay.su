@@ -1,0 +1,2 @@
+../source/delay/delay.c:14:6:delayMicroseconds	16	static
+../source/delay/delay.c:22:6:delay_ms	16	static

@@ -1,0 +1,5 @@
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_clock.h:639:20:CLOCK_EnableClock	16	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_port.h:346:20:PORT_SetPinMux	24	static
+../source/ModuleVentilateur.c:20:6:initVentilateur	8	static
+../source/ModuleVentilateur.c:30:6:allumerVentilateur	8	static
+../source/ModuleVentilateur.c:34:6:eteindreVentilateur	8	static

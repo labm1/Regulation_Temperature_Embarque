@@ -1,0 +1,3 @@
+../device/system_MKL28Z7.c:97:6:SystemInit	8	static
+../device/system_MKL28Z7.c:112:6:SystemCoreClockUpdate	24	static
+../device/system_MKL28Z7.c:154:29:SystemInitHook	8	static

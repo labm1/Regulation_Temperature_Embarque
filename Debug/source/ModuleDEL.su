@@ -1,0 +1,9 @@
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_clock.h:639:20:CLOCK_EnableClock	16	static
+C:\Users\mlabe\Documents\MCUXpressoIDE_24.9.25\workspace\MKL28Z7_Project\drivers/fsl_port.h:346:20:PORT_SetPinMux	24	static
+../source/ModuleDEL.c:21:6:initDEL	8	static
+../source/ModuleDEL.c:37:6:allumerDELrouge	8	static
+../source/ModuleDEL.c:40:6:allumerDELverte	8	static
+../source/ModuleDEL.c:43:6:allumerDELbleue	8	static
+../source/ModuleDEL.c:47:6:eteindreDELrouge	8	static
+../source/ModuleDEL.c:50:6:eteindreDELverte	8	static
+../source/ModuleDEL.c:53:6:eteindreDELbleue	8	static
